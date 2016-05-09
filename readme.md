@@ -45,4 +45,4 @@ Rubric
 You should create a new git repository for your work today and make at least 5 commits over the duration of the test to get full marks for use of git. When you are done, submit your git repo link. If you are not confident in using git, you can altarnatively submit a zip file of your work through webcourses.
 
 - [Submit your git repo link here](https://docs.google.com/forms/d/1m7oIH1u7tkRS8lb2iEYmymxdhZNQQz3wd2bSd8w5E5k/viewform)
-- If you cant figure out git, you can submit a zip file of your code here[http://www.dit.ie/lttc/webcourseslogin/]
+- (If you cant figure out git, you can submit a zip file of your code here)[http://www.dit.ie/lttc/webcourseslogin/]
